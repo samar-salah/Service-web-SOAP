@@ -1,0 +1,34 @@
+{
+    "employes": [
+        {
+            "id": 1234,
+            "dettes_en_cours": 500,
+            "faillite": 0,
+            "paiements_en_retard": 2
+        },
+        {
+            "id": 5678,
+            "dettes_en_cours": 1000,
+            "faillite": 0,
+            "paiements_en_retard": 1
+        },
+        {
+            "id": 9101,
+            "dettes_en_cours": 2000,
+            "faillite": 1,
+            "paiements_en_retard": 3
+        },
+        {
+            "id": 1122,
+            "dettes_en_cours": 800,
+            "faillite": 0,
+            "paiements_en_retard": 2
+        },
+        {
+            "id": 3344,
+            "dettes_en_cours": 1500,
+            "faillite": 0,
+            "paiements_en_retard": 0
+        }
+    ]
+}
